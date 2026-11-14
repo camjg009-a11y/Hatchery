@@ -1,0 +1,7 @@
+Primal epics             Primal(Ember)   8   Sanctum   5   Void   5
+Primal w/ legendaries    Primal(Ember)  10   Sanctum   8   Void   5
+Sanctum epics            Primal(Ember)   8   Sanctum   8   Void   5
+Sanctum w/ legendaries   Primal(Ember)  10   Sanctum   8   Void   8
+Void epics               Primal(Ember)   8   Sanctum   8   Void   8
+Void w/ legendaries      Primal(Ember)  10   Sanctum   8   Void   8
+[]

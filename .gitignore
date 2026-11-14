@@ -1,0 +1,11 @@
+# backups (git history replaces these)
+old/
+bak_art/
+bak_eggs/
+# caches and scratch, all regenerable
+emb/
+unc/
+unc2/
+/*.png
+__pycache__/
+*.npy

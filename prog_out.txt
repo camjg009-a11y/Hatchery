@@ -1,0 +1,73 @@
+{
+ "first": {
+  "hearth:common": 1,
+  "sanctum:uncommon": 1,
+  "void:common": 1,
+  "sanctum:common": 2,
+  "void:uncommon": 3,
+  "hearth:uncommon": 4,
+  "void:rare": 5,
+  "sanctum:rare": 9,
+  "sanctum:epic": 13,
+  "hearth:rare": 16,
+  "hearth:epic": 17,
+  "void:epic": 54,
+  "hearth:legendary": 75,
+  "sanctum:legendary": 113,
+  "void:legendary": 233
+ },
+ "out": [
+  {
+   "hatchesPerEgg": 50,
+   "owned": 47,
+   "team": "grave-hound\u26053, ahuizotl\u26052, night-serpent\u26051",
+   "best": {
+    "hearth": 8,
+    "sanctum": 5,
+    "void": 5
+   }
+  },
+  {
+   "hatchesPerEgg": 200,
+   "owned": 68,
+   "team": "taotie\u26053, dusk-moth\u26053, tsuchigumo\u26052",
+   "best": {
+    "hearth": 8,
+    "sanctum": 5,
+    "void": 5
+   }
+  },
+  {
+   "hatchesPerEgg": 1000,
+   "owned": 72,
+   "team": "pale-shepherd\u26054, taotie\u26056, dusk-moth\u26055",
+   "best": {
+    "hearth": 12,
+    "sanctum": 8,
+    "void": 5
+   }
+  },
+  {
+   "hatchesPerEgg": 3000,
+   "owned": 72,
+   "team": "star-eater-whale\u26056, pale-shepherd\u26056, taotie\u26057",
+   "best": {
+    "hearth": 12,
+    "sanctum": 8,
+    "void": 8
+   }
+  },
+  {
+   "hatchesPerEgg": 10000,
+   "owned": 72,
+   "team": "star-eater-whale\u26059, pale-shepherd\u26059, gloam-moth\u260512",
+   "best": {
+    "hearth": 12,
+    "sanctum": 8,
+    "void": 8
+   }
+  }
+ ],
+ "hatchable": 72
+}
+[]
